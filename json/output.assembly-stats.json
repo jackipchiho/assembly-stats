@@ -1,4 +1,9 @@
 {
+busco: { C:92.2,
+         D:2.7,
+         F:3.5,
+         M:1.6,
+         n:255 }
    "ATGC" : 429909776,
    "N" : 0,
    "binned_contig_counts" : [
