@@ -1,6 +1,6 @@
 {
    "cegma_complete" : 94.9,
-   "cegma_partial" : 3.5,
+   "cegma_partial" : 98.4,
    "ATGC" : 429909776,
    "N" : 0,
    "binned_contig_counts" : [
